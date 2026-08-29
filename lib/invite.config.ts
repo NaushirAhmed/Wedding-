@@ -80,6 +80,7 @@ export const inviteConfig: InviteConfig = {
   ribbon: {
     enabled: true,
     items: [
+      { text: '♥', style: 'mark' },
       { text: ' Rahil & Ruhi ', style: 'display' },
       { text: '♥', style: 'mark' },
       { text: ' راہل و روحی ', style: 'script' },
